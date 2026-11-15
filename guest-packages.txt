@@ -1,0 +1,894 @@
+Package	Version	Origin	Packaging commit	License
+abseil-cpp-base	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-city	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-cord	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-cord-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-cordz-functions	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-cordz-handle	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-cordz-info	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-crc-cord-state	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-crc-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-crc32c	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-debugging-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-die-if-null	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-examine-stack	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-exponential-biased	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-hash	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-hashtablez-sampler	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-int128	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-kernel-timeout-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-leak-check	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-globals	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-initialize	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-check-op	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-conditions	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-format	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-globals	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-log-sink-set	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-message	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-nullguard	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-proto	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-internal-structured-proto	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-log-sink	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-malloc-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-raw-hash-set	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-raw-logging-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-spinlock-wait	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-stacktrace	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-status	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-statusor	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-str-format-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-strerror	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-strings	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-strings-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-symbolize	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-synchronization	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-throw-delegate	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-time	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-time-zone	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+abseil-cpp-tracing-internal	20250814.1-r0	abseil-cpp	68b166903c9439e617b4208635153c7a647dc9f0	Apache-2.0
+accountsservice	23.13.9-r3	accountsservice	31c3ef23d2a8d07f5129972399f153f2eea01e9d	GPL-3.0-or-later
+acl-libs	2.3.2-r1	acl	8bac74716d06c84627ab02d101fd9d2bafd0a34c	LGPL-2.1-or-later AND GPL-2.0-or-later
+adwaita-fonts	50.0-r0	adwaita-fonts	b4f0590773788cde0df58f4aef035be023277464	GPL-3.0-or-later
+adwaita-fonts-mono	50.0-r0	adwaita-fonts	b4f0590773788cde0df58f4aef035be023277464	GPL-3.0-or-later
+adwaita-fonts-sans	50.0-r0	adwaita-fonts	b4f0590773788cde0df58f4aef035be023277464	GPL-3.0-or-later
+adwaita-icon-theme	50.0-r1	adwaita-icon-theme	2702d8eeb05f2b8ada1c204f2415e6e0b071ef4c	LGPL-3.0-or-later OR CC-BY-SA-3.0
+agetty	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	Public-Domain
+agetty-openrc	0.63.2-r0	openrc	30c61338b7a04d3c94509eabba5210b7bf81151a	BSD-2-Clause
+alpine-baselayout	3.7.2-r1	alpine-baselayout	60a7585bbab2fa0f762504eb617dbca90216e31f	GPL-2.0-only
+alpine-baselayout-data	3.7.2-r1	alpine-baselayout	60a7585bbab2fa0f762504eb617dbca90216e31f	GPL-2.0-only
+alpine-conf	3.22.0-r0	alpine-conf	ffe51358504147f053bc39711afeb04ad89deb95	MIT
+alpine-keys	2.6-r0	alpine-keys	b9f23becced4d7b3ccc0fa0f28530243ccd314a0	MIT
+alpine-release	3.24.4-r0	alpine-base	105b835acd9971b9770fb61f5a1ddcc133c180dc	MIT
+alsa-lib	1.2.15.3-r0	alsa-lib	2939b0cfc6acaf6eeb012f4e371d46c537d4e9f9	LGPL-2.1-or-later
+alsa-plugins-pulse	1.2.12-r2	alsa-plugins	a09825449dc82baee0073965af1703e826977b8c	GPL-2.0-or-later LGPL-2.1-or-later
+alsa-ucm-conf	1.2.16.1-r0	alsa-ucm-conf	c6af12e980103b5b83fca1801f40474df921c552	BSD-3-Clause
+alsa-utils	1.2.15.2-r1	alsa-utils	30b1881b443299df053faa024bf4cc7abc95ea77	GPL-2.0-or-later
+alsa-utils-openrc	1.2.15.2-r1	alsa-utils	30b1881b443299df053faa024bf4cc7abc95ea77	GPL-2.0-or-later
+alsa-utils-udev	1.2.15.2-r1	alsa-utils	30b1881b443299df053faa024bf4cc7abc95ea77	GPL-2.0-or-later
+anthy	9100h-r4	anthy	37b33da6292a8f0c31b8f64ca00f754b880f35fb	LGPL-2.1-or-later
+aom-libs	3.14.1-r0	aom	ca6a710df98ad5e2b596cf06b44cd82a5ceefc4e	BSD-2-Clause AND custom
+apk-polkit-rs-openrc	3.0.2-r0	apk-polkit-rs	134a57705eed6c849b09cc91f2d797bd1991c027	GPL-3.0-or-later
+apk-tools	3.0.9-r0	apk-tools	13685e8f2cf1c103cbba2fb9efcfcf19f4918df0	GPL-2.0-only
+appstream	1.1.2-r0	appstream	198e6d5ec6bfa07fcdb28a32f9622bbbee69ff0b	LGPL-2.1-or-later
+at-spi2-core	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+at-spi2-core-libs	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+avahi	0.9_rc4-r0	avahi	c8147a84799898ff9780bc4f3c179ccc141e8e67	LGPL-2.1-or-later
+avahi-glib	0.9_rc4-r0	avahi	c8147a84799898ff9780bc4f3c179ccc141e8e67	LGPL-2.1-or-later
+avahi-libs	0.9_rc4-r0	avahi	c8147a84799898ff9780bc4f3c179ccc141e8e67	LGPL-2.1-or-later
+avahi-openrc	0.9_rc4-r0	avahi	c8147a84799898ff9780bc4f3c179ccc141e8e67	LGPL-2.1-or-later
+bash	5.3.9-r1	bash	1522c3193610902d8493f9790a2755c11f21f26d	GPL-3.0-or-later
+basu	0.2.1-r2	basu	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.1-or-later
+beebzzr	0_git20251214-r0	beebzzr	-dirty	BSD-3-Clause
+blkid	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	LGPL-1.0-only
+bluez	5.86-r2	bluez	89c57e4f72fc601ca91d40a0bb98615f3b4c7b1f	GPL-2.0-or-later AND BSD-2-Clause AND MIT
+bluez-openrc	5.86-r2	bluez	89c57e4f72fc601ca91d40a0bb98615f3b4c7b1f	GPL-2.0-or-later AND BSD-2-Clause AND MIT
+boot-deploy	0.23.0-r0	boot-deploy	-dirty	GPL-2.0-or-later
+bridge	1.5-r5	bridge	8bac74716d06c84627ab02d101fd9d2bafd0a34c	GPL-2.0-or-later
+brotli-libs	1.2.1-r0	brotli	8313352127992a9d82e2c2024494f6c38a4dffb4	MIT
+btrfs-progs	6.17.1-r1	btrfs-progs	0de8f5fdfa9f69b4ef3f92f1d764d7725666a534	GPL-2.0-or-later
+btrfs-progs-openrc	6.17.1-r1	btrfs-progs	0de8f5fdfa9f69b4ef3f92f1d764d7725666a534	GPL-2.0-or-later
+btrfs-progs-udev	6.17.1-r1	btrfs-progs	0de8f5fdfa9f69b4ef3f92f1d764d7725666a534	GPL-2.0-or-later
+bubblewrap	0.12.0-r0	bubblewrap	21ce0edacfd8b359eeb3abc29fbd0b49b023ca1b	LGPL-2.1-or-later
+buffyboard	3.2.0-r1	buffyboard	a70f02a1172c743d64f7b97ee5dec37835d041f1	GPL-3.0-or-later
+busctl	255.24-r0	elogind	f7e4c2c1ed47d57461b9cb50cd11cc2bc8168ad3	GPL-2.0-or-later LGPL-2.1-or-later
+busybox	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+busybox-binsh	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+busybox-extras	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+busybox-mdev-openrc	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+busybox-openrc	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+bzip2	1.0.8-r6	bzip2	33283848034c9885d984c8e8697c645c57324938	bzip2-1.0.6
+c-ares	1.34.9-r0	c-ares	50f178d7a4c30ea44b54b7d4731ab58558c38b14	MIT
+ca-certificates	20261020-r0	ca-certificates	e78f5987166c6ffbe23f6472e2e8f040298fe2da	MPL-2.0 AND MIT
+ca-certificates-bundle	20261020-r0	ca-certificates	e78f5987166c6ffbe23f6472e2e8f040298fe2da	MPL-2.0 AND MIT
+cairo	1.18.4-r1	cairo	e54632f6ef658146c2393a8cbd0368a3707d4991	LGPL-2.1-or-later OR MPL-1.1
+cairo-gobject	1.18.4-r1	cairo	e54632f6ef658146c2393a8cbd0368a3707d4991	LGPL-2.1-or-later OR MPL-1.1
+callaudiod-libs	0.1.99-r0	callaudiod	b23ed25f2a13347ecbfe6c7d9c28d66a68dc85c2	GPL-3.0-or-later
+cdparanoia-libs	10.2-r14	cdparanoia	c878341873168fef6b5c91c8f5c924a1af67c7c3	LGPL-2.1-or-later
+cellbroadcastd	0.0.3-r2	cellbroadcastd	9a4d674c5ad9cac7ffec0d815e397a0bc835ed2e	LGPL-2.1-or-later
+cellbroadcastd-libs	0.0.3-r2	cellbroadcastd	9a4d674c5ad9cac7ffec0d815e397a0bc835ed2e	LGPL-2.1-or-later
+cfdisk	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+chrony	4.8-r7	chrony	933158c24d6c3fd15531b4427ce9696f706b0b71	GPL-2.0-or-later
+chrony-common	4.8-r7	chrony	933158c24d6c3fd15531b4427ce9696f706b0b71	GPL-2.0-or-later
+chrony-openrc	4.8-r7	chrony	933158c24d6c3fd15531b4427ce9696f706b0b71	GPL-2.0-or-later
+cloud-init	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-akamai	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-akamai-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-aliyun	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-aliyun-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-altcloud	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-altcloud-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-azure	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-azure-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-bigstep	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-bigstep-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudcix	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudcix-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudsigma	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudsigma-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudstack	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-cloudstack-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-configdrive	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-configdrive-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-digitalocean	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-digitalocean-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ec2	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ec2-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-exoscale	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-exoscale-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-gce	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-gce-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-hetzner	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-hetzner-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ibmcloud	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ibmcloud-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-lxd	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-lxd-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-maas	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-maas-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-nocloud	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-nocloud-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-nwcs	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-nwcs-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-opennebula	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-opennebula-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-openstack	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-openstack-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-oracle	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-oracle-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ovf	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-ovf-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-rbx	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-rbx-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-scaleway	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-scaleway-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-smartos	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-smartos-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-upcloud	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-upcloud-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-vmware	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-vmware-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-vultr	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-vultr-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-wsl	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasource-wsl-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-datasources	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-openrc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-pyc	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-init-udev	26.1-r3	cloud-init	cae04895f06418eb660285845dfc655a55ffe5c3	Apache-2.0 OR GPL-3.0-only
+cloud-utils-growpart	0.33-r1	cloud-utils	4072c32d240e28779a1cc29d04b971aaf59e68f1	GPL-3.0-or-later
+colord	1.4.8-r4	colord	a7c11fb75debe853e13fc2f6599506a001365611	GPL-2.0-or-later
+colord-gtk	0.3.1-r0	colord-gtk	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.1-or-later
+colord-udev	1.4.8-r4	colord	a7c11fb75debe853e13fc2f6599506a001365611	GPL-2.0-or-later
+cracklib	2.10.3-r1	cracklib	46ead21b854fbb678528bd02e9773167ffcaf9ab	LGPL-2.1-or-later
+cracklib-words	2.10.3-r1	cracklib	46ead21b854fbb678528bd02e9773167ffcaf9ab	Public-Domain
+cryptsetup	2.8.6-r0	cryptsetup	d2f0440960e65952ee22c6b840faecb14d9f0173	GPL-2.0-or-later WITH cryptsetup-OpenSSL-exception
+cryptsetup-libs	2.8.6-r0	cryptsetup	d2f0440960e65952ee22c6b840faecb14d9f0173	GPL-2.0-or-later WITH cryptsetup-OpenSSL-exception
+cryptsetup-openrc	2.8.6-r0	cryptsetup	d2f0440960e65952ee22c6b840faecb14d9f0173	GPL-2.0-or-later WITH cryptsetup-OpenSSL-exception
+cups-libs	2.4.19-r1	cups	636370bb6f28ad23a01cefdd5316b06c85fa5761	Apache-2.0
+cups-pk-helper	0.2.7-r3	cups-pk-helper	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	GPL-2.0-or-later
+curl	8.23.0-r0	curl	c65a7b3f6d6bc4b3c0a8a6fff759d8fd05a167ce	curl
+dbus	1.16.2-r2	dbus	0dac2d7bf76016e3bb78ccc734edbb157a1d4b51	AFL-2.1 OR GPL-2.0-or-later
+dbus-daemon-launch-helper	1.16.2-r2	dbus	0dac2d7bf76016e3bb78ccc734edbb157a1d4b51	AFL-2.1 OR GPL-2.0-or-later
+dbus-libs	1.16.2-r2	dbus	0dac2d7bf76016e3bb78ccc734edbb157a1d4b51	AFL-2.1 OR GPL-2.0-or-later
+dbus-openrc	1.16.2-r2	dbus	0dac2d7bf76016e3bb78ccc734edbb157a1d4b51	AFL-2.1 OR GPL-2.0-or-later
+dbus-x11	1.16.2-r2	dbus	0dac2d7bf76016e3bb78ccc734edbb157a1d4b51	AFL-2.1 OR GPL-2.0-or-later
+dconf	0.49.0-r1	dconf	2941f70a86453446dd4b7c66c09f9aea5aa7c402	LGPL-2.1-or-later
+desktop-file-utils	0.28-r0	desktop-file-utils	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	GPL-2.0-or-later
+device-mapper	2.03.35-r3	device-mapper	a9f462dee63c7d522585e53f5c04b71eab563ec7	GPL-2.0-or-later AND LGPL-2.1-or-later
+device-mapper-libs	2.03.35-r3	device-mapper	a9f462dee63c7d522585e53f5c04b71eab563ec7	GPL-2.0-or-later AND LGPL-2.1-or-later
+device-mapper-udev	2.03.35-r3	device-mapper	a9f462dee63c7d522585e53f5c04b71eab563ec7	GPL-2.0-or-later AND LGPL-2.1-or-later
+devicepkg-utils	0.3.2-r0	devicepkg-utils	-dirty	MIT
+dhcpcd	10.5.2-r1	dhcpcd	8d5052708e4c0d657a27d79012dcd3588b497837	BSD-2-Clause
+dhcpcd-openrc	10.5.2-r1	dhcpcd	8d5052708e4c0d657a27d79012dcd3588b497837	BSD-2-Clause
+dialog	1.3.20260107-r1	dialog	a9e2a2dc46f377eb25884f7fea9834492de7f518	LGPL-2.1-only
+directfb	1.7.7-r8	directfb	81718313f55b85e4727ef421addae5a8e3b0004e	LGPL-2.0-or-later
+djvulibre-libs	3.5.30-r0	djvulibre	40e250cfec435d633139c6f73bd5c6269b418268	GPL-2.0-only
+dmesg	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+dnsmasq-common	2.92_p2-r0	dnsmasq	e07ee66304113d2d316dd9946b6e68d90a87b972	GPL-2.0-or-later
+dnsmasq-dnssec-dbus	2.92_p2-r0	dnsmasq	e07ee66304113d2d316dd9946b6e68d90a87b972	GPL-2.0-or-later
+dnsmasq-openrc	2.92_p2-r0	dnsmasq	e07ee66304113d2d316dd9946b6e68d90a87b972	GPL-2.0-or-later
+doas	6.8.2-r8	doas	3a55d7eb7b4b1e865bb0742590c2090e16f25fb9	ISC
+dosfstools	4.2-r2	dosfstools	9024026ee6838388f8b87e52a17495786ed85d4e	GPL-3.0-or-later
+duktape-libs	2.7.0-r3	duktape	a9e2a2dc46f377eb25884f7fea9834492de7f518	MIT
+e2fsprogs	1.47.4-r0	e2fsprogs	8683a6972cb245fbbdb535dad6435a9930bb9374	GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT
+e2fsprogs-extra	1.47.4-r0	e2fsprogs	8683a6972cb245fbbdb535dad6435a9930bb9374	GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT
+e2fsprogs-libs	1.47.4-r0	e2fsprogs	8683a6972cb245fbbdb535dad6435a9930bb9374	GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT
+elogind	255.24-r0	elogind	f7e4c2c1ed47d57461b9cb50cd11cc2bc8168ad3	GPL-2.0-or-later LGPL-2.1-or-later
+elogind-common	255.24-r0	elogind	f7e4c2c1ed47d57461b9cb50cd11cc2bc8168ad3	GPL-2.0-or-later LGPL-2.1-or-later
+elogind-openrc	255.24-r0	elogind	f7e4c2c1ed47d57461b9cb50cd11cc2bc8168ad3	GPL-2.0-or-later LGPL-2.1-or-later
+enchant2-libs	2.8.15-r0	enchant2	29f5e8636649b9b1bd07d694fe8fe3a9b5e0e0e9	LGPL-2.1-or-later
+eudev	3.2.14-r6	eudev	4133df77f8cc98f92679b79de07736589fa48bff	GPL-2.0-or-later
+eudev-libs	3.2.14-r6	eudev	4133df77f8cc98f92679b79de07736589fa48bff	GPL-2.0-or-later
+eudev-openrc	3.2.14-r6	eudev	4133df77f8cc98f92679b79de07736589fa48bff	GPL-2.0-or-later
+evince-libs	48.4-r0	evince	ca24ffec6aa72bff8af732f440a67e70863f13b2	GPL-2.0-or-later
+evolution-data-server	3.60.2-r2	evolution-data-server	7967e5fdbe549156807b3aa3982cef3d999f82d8	GPL-2.0-or-later
+f2fs-tools	1.16.0-r4	f2fs-tools	10eb4f0168edfceeafef1f374b87502b31ca8f67	GPL-2.0-or-later OR LGPL-2.1-or-later
+f2fs-tools-libs	1.16.0-r4	f2fs-tools	10eb4f0168edfceeafef1f374b87502b31ca8f67	GPL-2.0-or-later OR LGPL-2.1-or-later
+faac	1.31.1-r0	faac	fd133eb9c5bdad4ab8aa2bda85a4b1a0ff18837b	GPL-3.0-or-later
+faad2-libs	2.11.2-r0	faad2	333c64f70965994ccb525551c617af7974e39fc8	GPL-2.0-or-later
+fdk-aac	2.0.2-r4	fdk-aac	80739e9ec0682399ed55876d26966ea77d6242fb	FDK-AAC
+feedbackd	0.8.9-r2	feedbackd	1e14fb21989b945042fccd5a9cc3e9cad7071a9c	GPL-3.0-or-later
+feedbackd-device-themes	0.8.9-r0	feedbackd-device-themes	549e84793b0f66ebd7b0912411a9daab563c5cd2	GPL-3.0-or-later
+feedbackd-udev	0.8.9-r2	feedbackd	1e14fb21989b945042fccd5a9cc3e9cad7071a9c	GPL-3.0-or-later
+fftw-single-libs	3.3.11-r0	fftw	961fdd748f4623133dcddb51b1169967b1657175	GPL-2.0-or-later
+file	5.47-r2	file	a05d36fa86411cd0ce86d756f818e525d0eee1c3	BSD-2-Clause
+findmnt	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+flatpak-libs	1.16.6-r2	flatpak	24fe36d3da0a2e3a25d94a050056208236c77981	LGPL-2.1-or-later
+flite	2.2-r6	flite	a9e2a2dc46f377eb25884f7fea9834492de7f518	BSD-4-Clause
+flock	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	MIT
+font-droid	20200215-r5	font-droid	b01c471c954a054e703baee3fa242df2cea570c1	Apache-2.0
+font-terminus	4.49.1-r4	font-terminus	abec7d40d0a7660e575f18f6625e6d74f742ecf0	OFL-1.1
+fontconfig	2.17.1-r1	fontconfig	07061cb5a28861b108b09adc09ebd4fd962e549f	MIT
+freetype	2.14.3-r0	freetype	ad16b0afc1a315c4095a75ff72ebbe3cfa29b671	FTL OR GPL-2.0-or-later
+fribidi	1.0.16-r3	fribidi	5c9b8291bfb31116907f54dad1c7e03fec51eddb	LGPL-2.1-or-later
+fstrim	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+fuse-common	3.18.3-r0	fuse3	0adb5f52202c5e2d5029f50a27a972479b3d98b5	GPL-2.0-only AND LGPL-2.1-only
+fuse-openrc	3.18.3-r0	fuse3	0adb5f52202c5e2d5029f50a27a972479b3d98b5	GPL-2.0-only AND LGPL-2.1-only
+fuse3	3.18.3-r0	fuse3	0adb5f52202c5e2d5029f50a27a972479b3d98b5	GPL-2.0-only AND LGPL-2.1-only
+fuse3-libs	3.18.3-r0	fuse3	0adb5f52202c5e2d5029f50a27a972479b3d98b5	GPL-2.0-only AND LGPL-2.1-only
+fuse3-udev	3.18.3-r0	fuse3	0adb5f52202c5e2d5029f50a27a972479b3d98b5	GPL-2.0-only AND LGPL-2.1-only
+gcr	3.41.2-r2	gcr	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.0-or-later
+gcr-base	3.41.2-r2	gcr	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.0-or-later
+gcr-ssh-agent	4.4.0.1-r1	gcr4	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.0-or-later
+gcr4	4.4.0.1-r1	gcr4	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.0-or-later
+gcr4-base	4.4.0.1-r1	gcr4	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.0-or-later
+gdbm	1.26-r0	gdbm	1ea03990396db618edfcc8a9a0bc6b72662bac8f	GPL-3.0-or-later
+gdk-pixbuf	2.44.7-r1	gdk-pixbuf	a21007f809f4d279cbce1345fb3c29af0887ffdc	LGPL-2.1-or-later
+generate-kernel-cmdline	1.0-r0	generate-kernel-cmdline	17f4df4481b0d57f12d659df1447c9267ec1ac26	GPL-3.0-or-later
+geoclue	2.8.1-r0	geoclue	8ca2388d2fc38fb54b5d05e69ae66a18913f2e74	LGPL-2.1-or-later
+geocode-glib	3.26.4-r5	geocode-glib	094c05697f01caa52310f362ffa2acf5f9a0e106	LGPL-2.0-or-later
+glib	2.88.1-r1	glib	bd96e2db11c9ba7d7795454d16af620d577614c7	LGPL-2.1-or-later
+glib-networking	2.80.1-r2	glib-networking	2941f70a86453446dd4b7c66c09f9aea5aa7c402	LGPL-2.0-or-later
+glycin-heif	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+glycin-image-rs	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+glycin-jxl	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+glycin-loaders-all	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+glycin-svg	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+glycin-thumbnailer	2.1.5-r0	glycin	78ed74f69dc1a13b83b66986968d454e415acf9a	MPL-2.0 OR LGPL-2.0-or-later
+gmobile	0.7.2-r0	gmobile	e5e49f8c66f452b60e74fcec0971cd667d9b81dc	GPL-3.0-only
+gmobile-udev	0.7.2-r0	gmobile	e5e49f8c66f452b60e74fcec0971cd667d9b81dc	GPL-3.0-only
+gmp	6.3.0-r4	gmp	206e7b39f7884d62a174aba4d33a42454518c1c2	LGPL-3.0-or-later OR GPL-2.0-or-later
+gnome-backgrounds	50.0-r0	gnome-backgrounds	927f48a71542b0809f7be1644254039527dd1e9c	GPL-2.0-or-later AND CC-BY-2.0 AND CC-BY-SA-2.0 AND CC-BY-SA-3.0
+gnome-bluetooth	47.2-r0	gnome-bluetooth	aa5f85d16ddde8bb77f70c6bbd6571c97580fcf2	GPL-2.0-or-later AND LGPL-2.1-or-later
+gnome-bluetooth-libs	47.2-r0	gnome-bluetooth	aa5f85d16ddde8bb77f70c6bbd6571c97580fcf2	GPL-2.0-or-later AND LGPL-2.1-or-later
+gnome-bluetooth-udev	47.2-r0	gnome-bluetooth	aa5f85d16ddde8bb77f70c6bbd6571c97580fcf2	GPL-2.0-or-later AND LGPL-2.1-or-later
+gnome-control-center	50.3-r0	gnome-control-center	e94b130a7b220527066108d0a335576a25c41dcb	GPL-2.0-or-later
+gnome-keyring	50.0-r0	gnome-keyring	63c502e654b8c5db7921eb039ffc77d8894c518c	GPL-2.0-only LGPL-2.0-only
+gnome-keyring-openrc	50.0-r0	gnome-keyring	63c502e654b8c5db7921eb039ffc77d8894c518c	GPL-2.0-only LGPL-2.0-only
+gnome-keyring-pam	50.0-r0	gnome-keyring	63c502e654b8c5db7921eb039ffc77d8894c518c	GPL-2.0-only LGPL-2.0-only
+gnome-online-accounts	3.58.1-r0	gnome-online-accounts	23c0b6111451a76df7f12b9115e3ef80ced7d7e8	GPL-2.0-or-later
+gnome-session	48.0-r3	gnome-session	9329fe70ff1266e4ccc3cb4a93d07fd0aee989b8	GPL-2.0-or-later
+gnome-settings-daemon	50.1-r0	gnome-settings-daemon	f736fcb32e65016a3dc0f1731ef6c7464141e33e	GPL-2.0-only AND LGPL-2.1-only
+gnome-settings-daemon-udev	50.1-r0	gnome-settings-daemon	f736fcb32e65016a3dc0f1731ef6c7464141e33e	GPL-2.0-only AND LGPL-2.1-only
+gnome-shell-schemas	50.3-r0	gnome-shell	d2c22c3aea1aa1223223b3c970f1510aea00ab49	GPL-2.0-or-later
+gnupg-dirmngr	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+gnupg-gpgconf	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+gnupg-keyboxd	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+gnutls	3.8.13-r0	gnutls	c09f2e94a4b0b4077da49683cf0faa09ed63fb5b	LGPL-2.1-or-later
+gobject-introspection	1.86.0-r1	gobject-introspection	f48701aa97c725aaabe89f85bb040ce56954d0bd	LGPL-2.0-or-later AND GPL-2.0-or-later AND MIT
+gojq	0.12.19-r4	gojq	c02e0c037b032adc0301e2027ad0f3a1c0b98a7a	MIT
+gpg	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+gpg-agent	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+gpgme	2.0.1-r1	gpgme	34ecdac2b99b3520c96e821645115a26dab45af6	LGPL-2.1-or-later AND GPL-3.0-or-later
+gpgsm	2.4.9-r1	gnupg	d71dde667049817d90cb84fe7b1e21630784b52f	GPL-3.0-or-later
+graphene	1.10.8-r5	graphene	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	MIT
+graphite2	1.3.14-r6	graphite2	0016c47e531622da02431c8958156d300ba3ec12	LGPL-2.1-or-later OR MPL-1.1
+greetd	0.10.3-r11	greetd	5edf592e27af4e1252d2c00f53cf16356aaf4f26	GPL-3.0-only
+greetd-openrc	0.10.3-r11	greetd	5edf592e27af4e1252d2c00f53cf16356aaf4f26	GPL-3.0-only
+greetd-phrog	0.50.0-r2	greetd-phrog	6b0aadc8a792d5b53889d7b736c19aa3fc5f761d	GPL-3.0-only
+greetd-phrog-schemas	0.50.0-r2	greetd-phrog	6b0aadc8a792d5b53889d7b736c19aa3fc5f761d	GPL-3.0-only
+grub	2.14-r0	grub	507b6419f67731e13ad07794b80c23c9df70330d	GPL-3.0-or-later
+grub-efi	2.14-r0	grub	507b6419f67731e13ad07794b80c23c9df70330d	GPL-3.0-or-later
+gsettings-desktop-schemas	50.1-r0	gsettings-desktop-schemas	131179669e5ce505b216e8a3e2de16f67c98caa7	LGPL-2.0-or-later
+gsm	1.0.23-r0	gsm	aa638de6f94994a5d6f56238d52795988df90778	TU-Berlin-2.0
+gsound	1.0.3-r3	gsound	2941f70a86453446dd4b7c66c09f9aea5aa7c402	LGPL-2.1-or-later
+gspell	1.14.4-r0	gspell	5096e84ddd90092e38118640a17e2e9bbb16640f	LGPL-2.1-or-later
+gst-audio-thumbnailer	1.0.0-r0	gst-thumbnailers	bb624dd203ea2bd5dd48b6d8df6ea4aac355e810	GPL-3.0-only
+gst-plugin-pipewire	1.6.8-r4	pipewire	ad5814b3ee6f1aef1ec86c64c973948d7869511d	MIT
+gst-plugins-bad	1.28.3-r0	gst-plugins-bad	3a9f73115455709c59f4d4895c3562fecbb78c59	GPL-2.0-or-later LGPL-2.0-or-later
+gst-plugins-base	1.28.3-r0	gst-plugins-base	5b722a808deeaaf6cb437c7ff6617e2e7adec0d1	GPL-2.0-or-later AND LGPL-2.0-or-later
+gst-thumbnailers	1.0.0-r0	gst-thumbnailers	bb624dd203ea2bd5dd48b6d8df6ea4aac355e810	GPL-3.0-only
+gst-video-thumbnailer	1.0.0-r0	gst-thumbnailers	bb624dd203ea2bd5dd48b6d8df6ea4aac355e810	GPL-3.0-only
+gstreamer	1.28.3-r0	gstreamer	b9a0c60026b2d5cce0b74d5469ea49a2208c4a58	LGPL-2.0-or-later
+gstreamer-ptp-helper	1.28.3-r0	gstreamer	b9a0c60026b2d5cce0b74d5469ea49a2208c4a58	LGPL-2.0-or-later
+gtk+3.0	3.24.52-r0	gtk+3.0	81ac3343fbf0ae01ce4105c13ae592294cad8843	LGPL-2.1-or-later
+gtk-update-icon-cache	3.24.52-r0	gtk+3.0	81ac3343fbf0ae01ce4105c13ae592294cad8843	LGPL-2.1-or-later
+gtk4.0	4.22.4-r0	gtk4.0	c697330c5aef79c143b47481cce5e5b7eb1d2b42	LGPL-2.1-or-later
+gweather-locations	2026.2-r0	gweather-locations	fc1d27a999b312e6dc136fa3852e91581c7b3c43	GPL-2.0-or-later
+harfbuzz	13.2.1-r0	harfbuzz	0e23da21a00fc68f2e5ddc352354a9d11d12ee24	MIT
+harfbuzz-icu	13.2.1-r0	harfbuzz	0e23da21a00fc68f2e5ddc352354a9d11d12ee24	MIT
+harfbuzz-subset	13.2.1-r0	harfbuzz	0e23da21a00fc68f2e5ddc352354a9d11d12ee24	MIT
+haveged	1.9.21-r0	haveged	8b21d4bf892eb846cb67c57617be72075029ca31	GPL-3.0-or-later
+haveged-openrc	1.9.21-r0	haveged	8b21d4bf892eb846cb67c57617be72075029ca31	GPL-3.0-or-later
+hexdump	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	BSD-4-Clause-UC
+hicolor-icon-theme	0.18-r0	hicolor-icon-theme	0d5b763d2fa803e7d71b4d2272a138842e4966fa	GPL-2.0-or-later
+hidapi	0.15.0-r0	hidapi	a255ed0fa9f4570e9356934632439e3dd03b3e5b	GPL-3.0-only OR BSD-3-Clause
+hunspell-en-us	2020.12.07-r4	hunspell-en	ad7f441a1b07a6e51fadd495b96790f67b459565	custom
+hwdata-pci	0.408-r0	hwdata	6f27b0b36ae7a3874f59cedf8c361b4016ee30ac	GPL-2.0-or-later OR XFree86-1.1
+hyphen	2.8.8-r3	hyphen	3994b45b6a9e37fd106a57e0f7ab05c2fc04d2d5	GPL-2.0-or-later LGPL-2.0-or-later MPL-1.1
+ibus	1.5.35-r0	ibus	83de1c1b2310ca8206d6d31653d75c4f7c46d85d	LGPL-2.1-or-later
+ibus-gtk3	1.5.35-r0	ibus	83de1c1b2310ca8206d6d31653d75c4f7c46d85d	LGPL-2.1-or-later
+ibus-gtk4	1.5.35-r0	ibus	83de1c1b2310ca8206d6d31653d75c4f7c46d85d	LGPL-2.1-or-later
+ibus-pyc	1.5.35-r0	ibus	83de1c1b2310ca8206d6d31653d75c4f7c46d85d	LGPL-2.1-or-later
+icu-data-en	78.1-r0	icu	6755fdb21483ba250d374c3244f0f48bc63447e2	ICU
+icu-libs	78.1-r0	icu	6755fdb21483ba250d374c3244f0f48bc63447e2	ICU
+ifupdown-ng	0.13.0-r0	ifupdown-ng	2c26ffc5e83fc3bc626f2516235b465e67606bf9	ISC
+ifupdown-ng-iproute2	0.13.0-r0	ifupdown-ng	2c26ffc5e83fc3bc626f2516235b465e67606bf9	ISC
+ifupdown-ng-wifi	0.13.0-r0	ifupdown-ng	2c26ffc5e83fc3bc626f2516235b465e67606bf9	ISC
+iio-sensor-proxy	3.9-r2	iio-sensor-proxy	5e69b3dafcf7b7ebab9026c0690b9c2f255b1cd1	GPL-2.0-or-later
+iio-sensor-proxy-openrc	3.9-r2	iio-sensor-proxy	5e69b3dafcf7b7ebab9026c0690b9c2f255b1cd1	GPL-2.0-or-later
+iio-sensor-proxy-udev	3.9-r2	iio-sensor-proxy	5e69b3dafcf7b7ebab9026c0690b9c2f255b1cd1	GPL-2.0-or-later
+imath	3.2.2-r1	imath	ba80e98e4c18b25ca0d02269b2248abc4f039a10	BSD-3-Clause
+inih	62-r0	inih	f62350e037a6e8cc2e4f21bd918862859b6169fd	BSD-3-Clause
+iproute2-minimal	7.0.0-r0	iproute2	3ee752ad0c8445c8105177cd5cebdd730789bcd8	GPL-2.0-or-later
+iskey	1-r2	iskey	-dirty	GPL-2.0
+iso-codes	4.20.1-r0	iso-codes	3a49dfeacdd77c88349f55632e5f14195bd16cd5	LGPL-2.1-or-later
+jansson	2.15.0-r0	jansson	88919740865a31680e7f1c4cb568dfd7a87e9f08	MIT
+json-c	0.18-r1	json-c	8e0faa63c91abd41feb359ce5fe4299a88a57ef1	MIT
+json-glib	1.10.8-r0	json-glib	2941f70a86453446dd4b7c66c09f9aea5aa7c402	LGPL-2.1-or-later
+keyutils	1.6.3-r4	keyutils	8bac74716d06c84627ab02d101fd9d2bafd0a34c	GPL-2.0-or-later AND LGPL-2.0-or-later
+keyutils-libs	1.6.3-r4	keyutils	8bac74716d06c84627ab02d101fd9d2bafd0a34c	GPL-2.0-or-later AND LGPL-2.0-or-later
+kmod	34.2-r1	kmod	206e7b39f7884d62a174aba4d33a42454518c1c2	GPL-2.0-or-later
+kmod-libs	34.2-r1	kmod	206e7b39f7884d62a174aba4d33a42454518c1c2	LGPL-2.1-or-later
+krb5-conf	1.0-r2	krb5-conf	4a46b2cb955e25fd6d6f913794d35bc6d876aea9	MIT
+krb5-libs	1.22.3-r0	krb5	95ecd1043f781a308ae20a7aa08b86070806946f	MIT
+lame-libs	3.100-r5	lame	ffd76e0bae9921b604c4d3fab6e236e6c7b4039a	LGPL-2.0-or-later
+lcms2	2.19-r0	lcms2	b103184b887bd33a5672484a96704363084b2901	MIT
+ldb	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+libSvtAv1Enc	4.1.0-r0	svt-av1	a75bcf7a688f62f2576d62a1ecfa3a1a67df6e3b	BSD-3-Clause-Clear
+libaccountsservice	23.13.9-r3	accountsservice	31c3ef23d2a8d07f5129972399f153f2eea01e9d	GPL-3.0-or-later
+libadwaita	1.9.2-r0	libadwaita	02a4b71e1b777e514e4215b26843d86f8b0f4fb6	LGPL-2.1-or-later
+libapk	3.0.9-r0	apk-tools	13685e8f2cf1c103cbba2fb9efcfcf19f4918df0	GPL-2.0-only
+libarchive	3.8.11-r0	libarchive	931582d4d89b89606f5dbecc5d3824efcd2fb8a1	BSD-2-Clause AND BSD-3-Clause AND Public-Domain
+libass	0.17.4-r1	libass	18b069a4afa2e455d2e4fe5e5bc7565855c09f96	ISC
+libassuan	3.0.2-r0	libassuan	dc3fc2d94931a406ff0810e5fb276e289d771d99	LGPL-2.1-or-later
+libasyncns	0.8-r5	libasyncns	a9e2a2dc46f377eb25884f7fea9834492de7f518	LGPL-2.0-or-later
+libatasmart	0.19-r4	libatasmart	66c5c73000ac3bcb005e252f9dcc7cd840847edc	LGPL-2.1-or-later
+libatk-1.0	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+libatk-bridge-2.0	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+libauth-samba	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+libavif	1.4.1-r0	libavif	7c091e42619c47958002c5de53dd7f02dd4c83ac	BSD-2-Clause
+libblkid	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	LGPL-2.1-or-later
+libblockdev	3.4.0-r1	libblockdev	bb42d5c65a7e3b0312d76dce2babe65cf664845b	LGPL-2.1-or-later
+libbsd	0.12.2-r0	libbsd	02365e78d654a7beb23fd35d7d69f4a649009ede	BSD-3-Clause
+libbytesize	2.12-r1	libbytesize	7e317a56dcb73220146364471fd24ab4749d82c5	LGPL-2.1-or-later
+libbz2	1.0.8-r6	bzip2	33283848034c9885d984c8e8697c645c57324938	bzip2-1.0.6
+libcamera	99990.7.1-r0	libcamera	-dirty	LGPL-2.1-or-later AND GPL-2.0-or-later
+libcamera-ipa	99990.7.1-r0	libcamera	-dirty	LGPL-2.1-or-later AND GPL-2.0-or-later
+libcanberra	0.30-r12	libcanberra	bbbd9f6db61180d55bdd725c97b7cd15f3efb202	LGPL-2.1-or-later
+libcanberra-gstreamer	0.30-r12	libcanberra	bbbd9f6db61180d55bdd725c97b7cd15f3efb202	LGPL-2.1-or-later
+libcanberra-gtk3	0.30-r12	libcanberra	bbbd9f6db61180d55bdd725c97b7cd15f3efb202	LGPL-2.1-or-later
+libcanberra-pulse	0.30-r12	libcanberra	bbbd9f6db61180d55bdd725c97b7cd15f3efb202	LGPL-2.1-or-later
+libcap-ng	0.8.5-r2	libcap-ng	5218322ff9abeee315a9a19f9be7a1440f89d042	GPL-2.0-or-later AND LGPL-2.1-or-later
+libcap2	2.78-r0	libcap	0c35848136c4c16a1b1672cb812efa88fffef1c2	BSD-3-Clause OR GPL-2.0-only
+libcolord	1.4.8-r4	colord	a7c11fb75debe853e13fc2f6599506a001365611	GPL-2.0-or-later
+libcom_err	1.47.4-r0	e2fsprogs	8683a6972cb245fbbdb535dad6435a9930bb9374	GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT
+libcrypto3	3.5.9-r0	openssl	29b9ec24b1b5b39aeef51fa2a044210e2ec5258e	Apache-2.0
+libcurl	8.23.0-r0	curl	c65a7b3f6d6bc4b3c0a8a6fff759d8fd05a167ce	curl
+libdaemon	0.14-r6	libdaemon	f8d62aa6b1bf91ade408013dde5995156561903c	MIT
+libdav1d	1.5.3-r0	dav1d	6a13170ddff8fdf27712aa7d0e5437aa2407ff56	BSD-2-Clause
+libdbusmenu-glib	16.04.0-r6	libdbusmenu-glib	80739e9ec0682399ed55876d26966ea77d6242fb	GPL-3.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later
+libdbusmenu-gtk3	16.04.0-r6	libdbusmenu-glib	80739e9ec0682399ed55876d26966ea77d6242fb	GPL-3.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later
+libdc1394	2.2.7-r0	libdc1394	6867e384dbfbd0b8efadbca989e9778190e89496	LGPL-2.1-or-later
+libde265	1.1.3-r0	libde265	c91a404808a54ac43837f3e459595fb868d5d6e1	LGPL-3.0-or-later
+libdeflate	1.25-r0	libdeflate	8bb1666230b293a8b2e27408be4731194b57a4ee	MIT
+libdisplay-info	0.3.0-r0	libdisplay-info	5c472425b8443bb2d7ee40589f4b3365496eb747	MIT
+libdrm	2.4.134-r0	libdrm	2015800769b781bef45917b668d10bffe2ac538f	MIT
+libdvdcss	1.4.3-r0	libdvdcss	3add37f3a9a86b35717f2cf7187158d28b328c2b	GPL-2.0-or-later
+libdvdnav	6.1.1-r1	libdvdnav	be0f852b928313f12250ef38f4f68e62f73308cc	GPL-2.0-or-later
+libdvdread	6.1.3-r2	libdvdread	4f8157b2e125ac222cade929bb25bda16305fefc	GPL-2.0-or-later
+libeconf	0.8.3-r0	libeconf	62db33049768522f381410614d59c7d732f72c3a	MIT
+libedit	20260508.3.1-r1	libedit	7c805161e588c028cdee3f19f500849fb2c75d42	BSD-3-Clause
+libelf	0.195-r0	elfutils	8f13294206888f3dd44ed74a8eb3dd9934499e81	GPL-3.0-or-later AND ( GPL-2.0-or-later OR LGPL-3.0-or-later )
+libelogind	255.24-r0	elogind	f7e4c2c1ed47d57461b9cb50cd11cc2bc8168ad3	GPL-2.0-or-later LGPL-2.1-or-later
+libepoxy	1.5.10-r1	libepoxy	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	MIT
+libevdev	1.13.6-r0	libevdev	2af4dd0082956420a61fe680bb3da04034e67e34	MIT
+libevent	2.1.13-r0	libevent	7c5a7049c5779d87b9b4fa1c7d416056f7e30298	BSD-3-Clause
+libexpat	2.10.0-r0	expat	af0fa42036cd6e626768c0d65fddaa1d1b30cf21	MIT
+libfdisk	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	LGPL-2.1-or-later
+libffi	3.5.2-r1	libffi	2c2a7bb4a8b16066834e90402567b2c19403a790	MIT
+libflac	1.4.3-r2	flac	253ee9b07f7696cc02f7dda9df81793e506a6c2d	BSD-3-Clause AND GPL-2.0-or-later
+libfontenc	1.1.9-r0	libfontenc	9667f1121e207bb3819d91ab6734375f7698e5a7	MIT
+libformw	6.6_p20260516-r0	ncurses	2cee8a7328d061418336ad327b512d96bcd7bc5e	X11
+libfreeaptx	0.2.2-r0	libfreeaptx	dda0b5a100ff8cb4bd50d64de0fc75157b33ca48	LGPL-2.1-or-later
+libfyaml	0.9.5-r1	libfyaml	3fd230f49885791cccc2c8b072a4205f4ea20883	MIT
+libgcc	15.2.0-r5	gcc	423a8ad043d07f2c7546c8ec3e2b0384cda360ae	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgcrypt	1.12.2-r0	libgcrypt	0ae860b01c54e362509a5b1354f3dd2369b9dffc	LGPL-2.1-or-later AND GPL-2.0-or-later
+libglycin	2.1.5-r0	libglycin	ce376ccfea45bbc2bede2c6646f170c477c383c1	MPL-2.0 OR LGPL-2.0-or-later
+libgnome-bg-4	44.5-r0	gnome-desktop	f77596a3f338e40f913408140f6d18cc426e83f3	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgnome-desktop-3	44.5-r0	gnome-desktop	f77596a3f338e40f913408140f6d18cc426e83f3	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgnome-desktop-4	44.5-r0	gnome-desktop	f77596a3f338e40f913408140f6d18cc426e83f3	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgomp	15.2.0-r5	gcc	423a8ad043d07f2c7546c8ec3e2b0384cda360ae	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgpg-error	1.61-r0	libgpg-error	8caf2102b9e8f0d9189cc11ad1069060d8a10f53	GPL-2.0-or-later AND LGPL-2.1-or-later
+libgtop	2.41.3-r1	libgtop	6313b174fa1e738932aebfc3caea2a24b0a5970e	LGPL-2.1-or-later
+libgudev	238-r1	libgudev	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.1-or-later
+libgusb	0.4.9-r1	libgusb	485a588713bef3f5766842121aba78282220b01f	LGPL-2.1-or-later
+libgweather4	4.6.0-r0	libgweather4	cde6d7ca31cc8f68c3c04a9a1088e7b9db021cbe	LGPL-2.1-or-later
+libhandy1	1.8.3-r0	libhandy1	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.0-or-later
+libheif	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-aom	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-dav1d	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-jpeg	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-libde265	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-openh264	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-openjpeg	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-svtenc	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libheif-x265	1.23.7-r0	libheif	1e0f09ea95199c8eee2d2965cd900c7caf0ce831	LGPL-3.0-or-later
+libhunspell	1.7.3-r0	hunspell	88fe9d7d1000629d4fe6548ca4e1bfea2e333218	GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1
+libhwy	1.3.0-r0	highway	880de784cce25ae5d10a1b63b05e8c30f6d1b61a	Apache-2.0
+libical	3.0.20-r1	libical	6d66ec17fd088cad0ccb815ed1a6c748e0e45ab3	LGPL-2.1-only OR MPL-2.0
+libice	1.1.2-r0	libice	d4941e833167c30aa1172e6d8420d084698254ab	X11
+libidn2	2.3.8-r0	libidn2	8240e09aa2fdd8f9979b2016be082273965aff0c	GPL-2.0-or-later OR LGPL-3.0-or-later
+libinput-libs	1.31.3-r0	libinput	3241f28bdb5504c76850ce79362f9f38d44d4fa6	MIT
+libinput-udev	1.31.3-r0	libinput	3241f28bdb5504c76850ce79362f9f38d44d4fa6	MIT
+libintl	1.0-r0	gettext	a0b12dbf67fb047e79a1b76c6dfe6f2904d0d391	LGPL-2.1-or-later
+libjpeg-turbo	3.1.3-r0	libjpeg-turbo	5fe6bebf850fc964a8525c81548397c39cb6f7cd	BSD-3-Clause AND IJG AND Zlib
+libjxl	0.11.2-r1	libjxl	9ec8d4495d91ae682e932d82d9b1218aaff453e0	Apache-2.0
+libksba	1.7.0-r0	libksba	a753c0e07020a12107aaf290e8e9b02e149f6666	LGPL-3.0-only AND GPL-2.0-only AND GPL-3.0-only
+liblastlog2	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	BSD-2-Clause
+libldac	2.0.2.3-r1	libldac	a7ec97e438d943083c5e7ffb0c7a20b546c60d31	Apache-2.0
+libldap	2.6.15-r0	openldap	dff61c85c6c68e2c5fb8abac65f0dd97d4ad8763	OLDAP-2.8
+libltdl	2.6.0-r1	libtool	21b05914806e37e3e9de9d1e5a037fc688cbebd6	LGPL-2.0-or-later AND GPL-2.0-or-later
+libmagic	5.47-r2	file	a05d36fa86411cd0ce86d756f818e525d0eee1c3	BSD-2-Clause
+libmanette	0.2.12-r0	libmanette	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.1-or-later
+libmbim	1.34.0-r1	libmbim	fe23dc0458c5ddb03514e2cb75f3c5e8fa919115	GPL-2.0-or-later AND LGPL-2.1-or-later
+libmbim-udev	1.34.0-r1	libmbim	fe23dc0458c5ddb03514e2cb75f3c5e8fa919115	GPL-2.0-or-later AND LGPL-2.1-or-later
+libmd	1.2.0-r0	libmd	87b78bc6890645c317d3167bdbb0187502d0cda9	BSD-3-Clause AND BSD-2-Clause AND ISC AND Beerware AND Public Domain
+libmenuw	6.6_p20260516-r0	ncurses	2cee8a7328d061418336ad327b512d96bcd7bc5e	X11
+libmm-glib	1.25.95_git20260527-r1	modemmanager	c17ec2f14e8e3e294abca534fb4b34a62c80fd30	GPL-2.0-or-later AND LGPL-2.1-or-later
+libmnl	1.0.5-r2	libmnl	fc95c59998285564fbcb0bfb2443898c62e10171	LGPL-2.1-or-later
+libmodplug	0.8.9.0-r3	libmodplug	33283848034c9885d984c8e8697c645c57324938	custom
+libmount	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	LGPL-2.1-or-later
+libncursesw	6.6_p20260516-r0	ncurses	2cee8a7328d061418336ad327b512d96bcd7bc5e	X11
+libndp	1.9-r1	libndp	00406a9c697d88f531962cb63e5343488a959b93	LGPL-2.1-or-later
+libnftnl	1.3.1-r0	libnftnl	80fae26950fd406b1645cfa15aa6eba0b850ecef	GPL-2.0-or-later
+libnl3	3.11.0-r0	libnl3	4084996615c2a6601e26eedde99e3ae66e7d6ab7	LGPL-2.1-or-later
+libnm	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+libnma-common	1.10.6-r4	libnma	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.1-or-later
+libnma-gtk4	1.10.6-r4	libnma	c97799aa548f601eb43cfd276ba52f1a9da85d48	LGPL-2.1-or-later
+libnotify	0.8.8-r0	libnotify	25517fad2ccae8578a3adceddc305d9718913ab9	LGPL-2.1-or-later
+libnvme	1.16.2-r0	libnvme	a8b6bd75a8683403a6b772b39f7d562dee27d840	LGPL-2.1-or-later
+libnvmemi	1.16.2-r0	libnvme	a8b6bd75a8683403a6b772b39f7d562dee27d840	LGPL-2.1-or-later
+libogg	1.3.6-r0	libogg	c17e8cd839de47006a648ae64294616569946b3f	BSD-3-Clause
+libpanelw	6.6_p20260516-r0	ncurses	2cee8a7328d061418336ad327b512d96bcd7bc5e	X11
+libpciaccess	0.19-r0	libpciaccess	d5de88aad8098d25c1b9e53d4ca5e6ff6c90e234	X11
+libphonenumber	9.0.32-r0	libphonenumber	b0cb881834d16868ae4c24e632cd6092386be6f2	Apache-2.0
+libphosh	0.55.0-r2	phosh	0f345a22ae6ec7026cff699e2f1a9ea043a7dd19	GPL-3.0-only
+libpisp	1.5.0-r0	libpisp	06dcfbef45b43580db1a0ad37a4c76087d3c18a4	BSD-2-Clause
+libpng	1.6.59-r0	libpng	8f222b50cd6e31c83f7dd69ab7c00e7471e11d4b	Libpng
+libprotobuf	31.1-r1	protobuf	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-3-Clause
+libprotobuf-lite	31.1-r1	protobuf	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-3-Clause
+libprotoc	31.1-r1	protobuf	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-3-Clause
+libproxy	0.5.12-r0	libproxy	851c5e6677e09a71066d12f6585699453fd3d245	LGPL-2.0-or-later
+libpsl	0.21.5-r3	libpsl	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	MIT
+libpulse	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+libpulse-mainloop-glib	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+libpwquality	1.4.5-r6	libpwquality	edcbd2cf71534ecf3230a154da3dad25fcc369ac	BSD-3-Clause
+libqmi	1.38.0_git20260414-r0	libqmi	4506dd91d3dc3cb2002cd2bcade6487a87809f4c	GPL-2.0-or-later AND LGPL-2.1-or-later
+libqrtr-glib	1.4.0-r0	libqrtr-glib	2e7f17adb91f65d9dd620f699e46d59de744fd93	LGPL-2.1-or-later
+libraw1394	2.1.2-r5	libraw1394	4f8157b2e125ac222cade929bb25bda16305fefc	LGPL-2.1-or-later
+librsvg	2.62.3-r0	librsvg	c760246e855451fa4c2a2d77c1938ce51d9d1c77	LGPL-2.1-or-later
+librtmp	2.4_git20190330-r5	rtmpdump	a96a8227c86de32ad8f0c600abcf7d3469a8ff88	GPL-2.0-or-later
+libsasl	2.1.28-r9	cyrus-sasl	fac808c0fddf93e8980ec1f55972e6f69b78ba6f	BSD-3-Clause-Attribution AND BSD-4-Clause
+libseat	0.9.3-r0	seatd	493aed10300970781e9df821a418b91cf3aa6af2	MIT
+libseccomp	2.6.1-r0	libseccomp	3e05bdc04e1cd023978e0671150ac6190076169b	LGPL-2.1-or-later
+libsecret	0.21.7-r0	libsecret	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.1-or-later
+libsharpyuv	1.6.0-r0	libwebp	af8b48fabd19b69b00f5efe192f461896a38cf74	BSD-3-Clause
+libsm	1.2.6-r0	libsm	4eaa957537767ad0344894ad0e609068b26bf85d	MIT
+libsmartcols	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	LGPL-2.1-or-later
+libsmbclient	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+libsndfile	1.2.2-r2	libsndfile	3acdcc403bf369664fa1f448972400bc9e79cb98	LGPL-2.1-or-later
+libsoup3	3.6.6-r0	libsoup3	6ac0d65df9dcb0c66d5ba608f73e36586059762e	LGPL-2.0-or-later
+libsrt	1.5.3-r1	libsrt	2d9f0a6490c47e67a952cab2584fb5ae0531094f	MPL-2.0
+libsrtp	2.7.0-r0	libsrtp	49d5e530d0a021d96900b50de673d87b748a0dfd	BSD-3-Clause
+libssc	0.4.3-r0	libssc	31df693bc25d2ce14b7ca171d9499738abfb4c50	GPL-3.0-or-later
+libssc-pyc	0.4.3-r0	libssc	31df693bc25d2ce14b7ca171d9499738abfb4c50	GPL-3.0-or-later
+libssl3	3.5.9-r0	openssl	29b9ec24b1b5b39aeef51fa2a044210e2ec5258e	Apache-2.0
+libstdc++	15.2.0-r5	gcc	423a8ad043d07f2c7546c8ec3e2b0384cda360ae	GPL-2.0-or-later AND LGPL-2.1-or-later
+libtasn1	4.21.0-r0	libtasn1	771f180774aa0d9d3783d7f4eb9e3788c615658b	LGPL-2.1-or-later
+libtheora	1.2.0-r1	libtheora	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	BSD-3-Clause
+libtirpc-conf	1.3.5-r1	libtirpc	4519a8c0bafdd843397d13a9146c906ff64a6c2f	BSD-3-Clause
+libtirpc-nokrb	1.3.5-r1	libtirpc	4519a8c0bafdd843397d13a9146c906ff64a6c2f	BSD-3-Clause
+libunibreak	6.1-r0	libunibreak	80739e9ec0682399ed55876d26966ea77d6242fb	Zlib
+libunistring	1.4.2-r0	libunistring	30d9f19340385b2cd16eaf1cc6a9a8b30c4afe1c	GPL-2.0-or-later OR LGPL-3.0-or-later
+libunwind	1.8.3-r0	libunwind	1789f1e1e73cb18ef6050b7cbb544fc5cfcd65be	MIT
+libusb	1.0.30-r0	libusb	01432283613d87d80efdd9f78362a4c58c895439	LGPL-2.1-or-later
+libuuid	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	BSD-3-Clause
+libuv	1.52.1-r0	libuv	8d19451845edceeab46dad1dbb903e55f5b918d5	MIT
+libva	2.23.0-r0	libva	217e378f7609433dab89ca791cf5dd01f59a5667	MIT
+libverto	0.3.2-r2	libverto	84a227baf001b6e0208e3352b294e4d7a40e93de	MIT
+libvorbis	1.3.7-r2	libvorbis	fc95c59998285564fbcb0bfb2443898c62e10171	BSD-3-Clause
+libwacom	2.17.0-r1	libwacom	b6c2cc073518062c4e98c7c137063b2469d21fab	MIT
+libwacom-udev	2.17.0-r1	libwacom	b6c2cc073518062c4e98c7c137063b2469d21fab	MIT
+libwbclient	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+libwebp	1.6.0-r0	libwebp	af8b48fabd19b69b00f5efe192f461896a38cf74	BSD-3-Clause
+libwebpdemux	1.6.0-r0	libwebp	af8b48fabd19b69b00f5efe192f461896a38cf74	BSD-3-Clause
+libwebpmux	1.6.0-r0	libwebp	af8b48fabd19b69b00f5efe192f461896a38cf74	BSD-3-Clause
+libwoff2common	1.0.2-r4	woff2	80739e9ec0682399ed55876d26966ea77d6242fb	GPL-3.0-or-later
+libwoff2enc	1.0.2-r4	woff2	80739e9ec0682399ed55876d26966ea77d6242fb	GPL-3.0-or-later
+libx11	1.8.14-r0	libx11	e129d974905f6cf078e41390b58241a73519f572	X11
+libxau	1.0.12-r0	libxau	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	MIT
+libxcb	1.17.0-r2	libxcb	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	MIT
+libxcomposite	0.4.7-r0	libxcomposite	c0827d5370257f42994fa6711c985015efdf9037	MIT
+libxcursor	1.2.3-r0	libxcursor	1d6d12ed6f5cc1fc2e382d0bdc6fc90712745e8a	MIT
+libxcvt	0.1.3-r0	libxcvt	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	custom
+libxdamage	1.1.7-r0	libxdamage	5ef54777a8564f6c7515d1e0b04883cbd11ffa32	MIT
+libxdmcp	1.1.5-r1	libxdmcp	614e9166706cec427fc3d907b8d981390a42e088	MIT
+libxext	1.3.7-r0	libxext	4ec252fa3e6e8edf16d0d6da3fe6dd39e2263942	MIT
+libxfixes	6.0.2-r0	libxfixes	9d33b3af389f39ad78c80e3274aaf5adbbdb8150	MIT
+libxfont2	2.0.8-r0	libxfont2	1ad07911a02441114c991576c13fa0f4746e685b	MIT
+libxft	2.3.9-r0	libxft	9a4062b0f278b43370faa58195206c5ef94e7899	MIT
+libxi	1.8.4-r0	libxi	d7f98a7160b7857b74d67d052ae0cc56c833a90c	MIT AND X11
+libxinerama	1.1.6-r0	libxinerama	4b83e9a57e623461c4173c3cf261045b7f225b44	MIT
+libxkbcommon	1.13.1-r0	libxkbcommon	76aa0b70442b4172a6770da5875b1bcbe38f3965	MIT AND MIT-open-group AND HPND AND HPND-sell-variant AND LicenseRef-digital-equipment-corporation
+libxkbcommon-x11	1.13.1-r0	libxkbcommon	76aa0b70442b4172a6770da5875b1bcbe38f3965	MIT AND MIT-open-group AND HPND AND HPND-sell-variant AND LicenseRef-digital-equipment-corporation
+libxkbfile	1.2.0-r0	libxkbfile	4caf66685895cb1db7bfdfc9f63c1dbf726712fd	MIT
+libxml2	2.13.9-r2	libxml2	f1bd5b6767a0e7fdda380c95138a1c938eb6e102	MIT
+libxmlb	0.3.27-r0	libxmlb	ebb42b61da25be90819922d8341222f7ceec2110	LGPL-2.1-or-later
+libxmu	1.3.1-r0	libxmu	6975763371783f76ea45b6a55d224ca72b73d090	MIT
+libxrandr	1.5.5-r0	libxrandr	4a608248a9e09710a60f3d9027f19a14a5971dac	MIT
+libxrender	0.9.13-r0	libxrender	5ccdccc7a1dbc47bea804a77db56dfecf31b10ad	MIT
+libxshmfence	1.3.3-r0	libxshmfence	8bac74716d06c84627ab02d101fd9d2bafd0a34c	MIT
+libxslt	1.1.43-r4	libxslt	e85ecba78539486bd0a685963ca5da3e1652fbd0	X11
+libxt	1.3.1-r0	libxt	60222ebeadec75e483e49194130c6963d0fcbf75	MIT
+libxtst	1.2.6-r0	libxtst	9b53c2882fa653cbe6c1df82ac18a7b7f511aa06	MIT
+libxv	1.0.13-r0	libxv	9ce32dfd15fa7aa84849ad3f5ec8e8044ac93b07	MIT
+libxxf86vm	1.1.7-r0	libxxf86vm	ac89fbb35d37756385378e461847c2b0a61613dd	MIT
+libyuv	0.0.1928-r0	libyuv	6d055fa770a2fbbd807ee496c4dc8c69d00fbee4	BSD-3-Clause
+libzbar	0.23.93-r2	zbar	f3b3b20c95cbbcaf4f81fd1d083352a541c597fa	LGPL-2.0-or-later
+linux-pam	1.7.1-r2	linux-pam	b30bac94ff81d73cc5038f795cf60d82c2497a93	BSD-3-Clause
+linux-virt	6.18.63-r0	linux-lts	aabe3e5ce3d1b3469580a931ce1746e05dc95c01	GPL-2.0-only
+llvm22-libs	22.1.3-r1	llvm22	7d10bc6cb2ec4d1202cc140ecc753d3200d84fc2	Apache-2.0
+lmdb	0.9.35-r0	lmdb	231c77559d5aacbe78b7b385f2645836fcf4ea45	OLDAP-2.8
+logbookd	0.2.4-r3	logbookd	cc662e73f01d51a6089268e6db7921b725b980a0	MIT
+logbookd-openrc	0.2.4-r3	logbookd	cc662e73f01d51a6089268e6db7921b725b980a0	MIT
+logger	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	BSD-4-Clause-UC
+losetup	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+lsblk	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+lscpu	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+lua5.4-libs	5.4.8-r0	lua5.4	51396ae87f96ef4c5ca1f85a058eca0ebebb48be	MIT
+lz4	1.10.0-r1	lz4	1f16962f34234a77fab0f4651459c4381b4a0cd6	BSD-2-Clause AND GPL-2.0-or-later
+lz4-libs	1.10.0-r1	lz4	1f16962f34234a77fab0f4651459c4381b4a0cd6	BSD-2-Clause AND GPL-2.0-or-later
+lzo	2.10-r5	lzo	03fe9a0a61940d07592e897e7a5983e2c7d91fff	GPL-2.0-or-later
+malcontent-libs	0.14.0-r0	malcontent	8d69c8cc11f4170016834fb8c9f5577b516118c1	LGPL-2.1-or-later
+mcookie	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	Public-Domain
+mdev-conf	4.10-r0	mdev-conf	203310a84fe34bc9b8dad2c97cba2f5189303415	MIT
+merge-usr	1.0.3_git20260218-r0	merge-usr	ae8135838ff02b71172806492d78392922749c0b	GPL-2.0-or-later
+mesa	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mesa-dri-gallium	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mesa-egl	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mesa-gbm	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mesa-gl	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mesa-gles	26.1.6-r0	mesa	b94e73658216f4e91c701bfdeb420e6874910a74	MIT AND SGI-B-2.0 AND BSL-1.0
+mobile-broadband-provider-info	20251101-r1	mobile-broadband-provider-info	542c1d4b2bdebb381b6017b5045e1c430525fee6	CC-PDDC
+modemmanager	1.25.95_git20260527-r1	modemmanager	c17ec2f14e8e3e294abca534fb4b34a62c80fd30	GPL-2.0-or-later AND LGPL-2.1-or-later
+modemmanager-openrc	1.25.95_git20260527-r1	modemmanager	c17ec2f14e8e3e294abca534fb4b34a62c80fd30	GPL-2.0-or-later AND LGPL-2.1-or-later
+modemmanager-udev	1.25.95_git20260527-r1	modemmanager	c17ec2f14e8e3e294abca534fb4b34a62c80fd30	GPL-2.0-or-later AND LGPL-2.1-or-later
+mount	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+mpdecimal	4.0.1-r0	mpdecimal	c0519b85456e9b838e3142e1d233aab0b433b476	BSD-2-Clause
+mpfr4	4.2.2-r0	mpfr4	011955c827a3e7545ea82225e1f20c6a06617c7a	LGPL-3.0-or-later
+mpg123-libs	1.33.5-r0	mpg123	017919108b432743fd6862fb290980809c9cf60f	LGPL-2.1-only
+mtdev	1.1.7-r0	mtdev	6867e384dbfbd0b8efadbca989e9778190e89496	MIT
+musl	1.2.6-r3	musl	8f79d39391b46d6dbf1800fb68b8212a21d5ee2e	MIT
+musl-utils	1.2.6-r3	musl	8f79d39391b46d6dbf1800fb68b8212a21d5ee2e	MIT AND BSD-2-Clause AND GPL-2.0-or-later
+mutter-schemas	50.2-r1	mutter	1d554b05e1253e7aa0b45ed86f356d5d4991a3a0	GPL-2.0-or-later
+ncurses-terminfo-base	6.6_p20260516-r0	ncurses	2cee8a7328d061418336ad327b512d96bcd7bc5e	X11
+ndctl-libs	80-r1	ndctl	0a96d24b16d66af7d36e0c91969a634a717ed8bf	GPL-2.0-only AND LGPL-2.1-only
+neon	0.36.0-r0	neon	932473be5945fbbc94d2932d0d9408a142e6aaf7	LGPL-2.0-or-later
+nettle	3.10.2-r0	nettle	bf898e6d067c1c0ecc0f5ff39c79fc893399acd8	GPL-2.0-or-later OR LGPL-3.0-or-later
+networkmanager	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-bluetooth	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-cli	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-dnsmasq	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-openrc	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-tui	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-wifi	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+networkmanager-wwan	1.52.2-r0	networkmanager	2c1b69b2787eaa36668fad293f3e21d75829f14e	GPL-2.0-or-later
+newt	0.52.25-r1	newt	003f2e072d794d33c8234a236e1d5f3fae28fce9	LGPL-2.0-only
+nftables	1.1.6-r1	nftables	e0326a8ae770e02742daadffe8a8e64d8290ce06	GPL-2.0-or-later
+nftables-openrc	1.1.6-r1	nftables	e0326a8ae770e02742daadffe8a8e64d8290ce06	GPL-2.0-or-later
+nghttp2-libs	1.70.0-r0	nghttp2	d5a34efc88bbe8d18737fda28125071c4aef8517	MIT
+npth	1.8-r0	npth	bf86ff2a6bc3bc18850fada852dc3653434f2d41	LGPL-2.0-or-later
+nspr	4.38.2-r0	nspr	4e10628e0ece580cd8f88bec18b55ddbd0be249a	MPL-2.0
+nss	3.124-r0	nss	422faa8d3631e64d35b5b210b698a05cac32f2be	MPL-2.0
+numactl	2.0.19-r0	numactl	ac972e48bfad3673dd72e92890f04ffd879215be	LGPL-2.1-only
+nvme-cli	2.16-r1	nvme-cli	7831ef13a9d4ad46cbf4962aa573f81225e8220d	GPL-2.0-or-later
+nvme-cli-udev	2.16-r1	nvme-cli	7831ef13a9d4ad46cbf4962aa573f81225e8220d	GPL-2.0-or-later
+obex-capabilities	0.2.1-r9	obex-capabilities	f6bc0a8dbcfdee6970ab771e52841024de70a0e3	GPL-3.0-or-later
+obex-capabilities-pyc	0.2.1-r9	obex-capabilities	f6bc0a8dbcfdee6970ab771e52841024de70a0e3	GPL-3.0-or-later
+obexd-enhanced	5.86-r1	obexd-enhanced	945c4dc518f893f0c0ee9ab10923f11cf9e8021f	GPL-2.0-or-later
+openal-soft-libs	1.25.2-r0	openal-soft	095a01c525c5b68543ae82ffa1a4ec4c94d987d2	LGPL-2.0-or-later
+openexr-libiex	3.4.15-r0	openexr	75e07796e3e41455a6ec7575766d5f03fb38df53	BSD-3-Clause
+openexr-libilmthread	3.4.15-r0	openexr	75e07796e3e41455a6ec7575766d5f03fb38df53	BSD-3-Clause
+openexr-libopenexr	3.4.15-r0	openexr	75e07796e3e41455a6ec7575766d5f03fb38df53	BSD-3-Clause
+openexr-libopenexrcore	3.4.15-r0	openexr	75e07796e3e41455a6ec7575766d5f03fb38df53	BSD-3-Clause
+openh264	2.6.0-r0	openh264	3e3fa0ef3b551ddcd1db850617252696ef8b092a	BSD-2-Clause
+openjpeg	2.5.4-r2	openjpeg	b6d19fe5cb62ff83b899e224cd2408868fc21e5e	BSD-2-Clause
+openrc	0.63.2-r0	openrc	30c61338b7a04d3c94509eabba5210b7bf81151a	BSD-2-Clause
+openrc-settingsd	1.5.0-r2	openrc-settingsd	48fac9b3c446f9c6bfb5b741fd2a00a72da547a3	GPL-2.0-or-later
+openrc-settingsd-openrc	1.5.0-r2	openrc-settingsd	48fac9b3c446f9c6bfb5b741fd2a00a72da547a3	GPL-2.0-or-later
+openrc-user-pam	0.63.2-r0	openrc	30c61338b7a04d3c94509eabba5210b7bf81151a	BSD-2-Clause
+openssh	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-client-common	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-client-default	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-keygen	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-nftrules	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-server	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-server-common	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-server-common-openrc	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-server-pam	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+openssh-sftp-server	10.3_p1-r2	openssh	384e25e6bd1f2e7b30095900e48b570d46953510	SSH-OpenSSH
+opus	1.6.1-r0	opus	6664b23b1c7a2d0887ff2cb0edc93fccb1474c8b	BSD-3-Clause
+orc	0.4.41-r0	orc	35fe4add84d7a6b772d1780cc3e3d7b4ab337bd3	BSD-2-Clause
+ostree	2025.7-r1	ostree	34ecdac2b99b3520c96e821645115a26dab45af6	LGPL-2.0-or-later
+ostree-grub	2025.7-r1	ostree	34ecdac2b99b3520c96e821645115a26dab45af6	LGPL-2.0-or-later
+p11-kit	0.26.2-r0	p11-kit	922ca1ffc9cc326f7d95b093b365e31da5cba1a9	BSD-3-Clause
+pango	1.57.1-r0	pango	18857621f16b29e66140dace710d0ad4016d9a90	LGPL-2.1-or-later
+parted	3.7-r0	parted	e98b87fc087ad8a95585b3b00045cfc7e0972e92	GPL-3.0-or-later
+partx	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+pcre2	10.49-r0	pcre2	3d497cbb3217749c4fb85f90f3b6f7908b0c1f95	BSD-3-Clause
+pcsc-lite-libs	2.4.0-r4	pcsc-lite	8f98e20b3b5b924d266d168b453e0a8467849572	BSD-3-Clause AND BSD-2-Clause AND ISC
+phoc	0.55.1-r0	phoc	c5e2a9a9f1ea60acbe8ed29f28578477773d9be1	GPL-3.0-only
+phoc-schemas	0.55.1-r0	phoc	c5e2a9a9f1ea60acbe8ed29f28578477773d9be1	GPL-3.0-only
+phosh	0.55.0-r2	phosh	0f345a22ae6ec7026cff699e2f1a9ea043a7dd19	GPL-3.0-only
+phosh-portalsconf	0.55.0-r2	phosh	0f345a22ae6ec7026cff699e2f1a9ea043a7dd19	GPL-3.0-only
+phosh-schemas	0.55.0-r2	phosh	0f345a22ae6ec7026cff699e2f1a9ea043a7dd19	GPL-3.0-only
+phosh-wallpapers	0.55.0-r0	phosh-wallpapers	616357d695f4f07fefb5ac4c69d0d58c3541e1f4	GPL-3.0-or-later AND CC-BY-SA-4.0 AND CC0-1.0
+pinentry	1.3.2-r0	pinentry	0c05b7bd82c7560340de5c02bf96db417366b697	GPL-2.0-or-later
+pipewire	1.6.8-r4	pipewire	ad5814b3ee6f1aef1ec86c64c973948d7869511d	MIT
+pipewire-libs	1.6.8-r4	pipewire	ad5814b3ee6f1aef1ec86c64c973948d7869511d	MIT AND LGPL-2.1-or-later
+pipewire-openrc	1.6.8-r4	pipewire	ad5814b3ee6f1aef1ec86c64c973948d7869511d	MIT
+pipewire-spa-libcamera	0-r0	pipewire-dummy-subpackages	-dirty	MIT
+pipewire-udev	1.6.8-r4	pipewire	ad5814b3ee6f1aef1ec86c64c973948d7869511d	MIT
+pipewire-webrtc	0-r0	pipewire-dummy-subpackages	-dirty	MIT
+pixman	0.46.4-r0	pixman	9337ac809a431f004386ea3e279e3d55f770e7d3	MIT
+pkgconf	2.5.1-r0	pkgconf	c6f80aa8e59c70d19e2d556c526f151656058536	ISC
+plymouth	26.134.222-r1	plymouth	aa6094808ac6c3aa0fbf8d5fa8b8bc195ff86d69	GPL-2.0-or-later
+plymouth-drm	26.134.222-r1	plymouth	aa6094808ac6c3aa0fbf8d5fa8b8bc195ff86d69	GPL-2.0-or-later
+polkit-common	127-r2	polkit	025209e827fda3499838c7714346cc029cae62ab	GPL-2.0-or-later
+polkit-elogind	127-r2	polkit	025209e827fda3499838c7714346cc029cae62ab	GPL-2.0-or-later
+polkit-elogind-libs	127-r2	polkit	025209e827fda3499838c7714346cc029cae62ab	GPL-2.0-or-later
+polkit-openrc	127-r2	polkit	025209e827fda3499838c7714346cc029cae62ab	GPL-2.0-or-later
+poppler	25.12.0-r1	poppler	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	GPL-2.0-or-later
+poppler-glib	25.12.0-r1	poppler	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	GPL-2.0-or-later
+popt	1.19-r4	popt	d3abe30d43524bed75a29a3006e703ab51836548	MIT
+postmarketos-artwork-icons	26.06-r0	postmarketos-artwork	-dirty	CC-BY-SA-4.0
+postmarketos-artwork-wallpapers	26.06-r0	postmarketos-artwork	-dirty	CC-BY-SA-4.0
+postmarketos-artwork-wallpapers-gnome	26.06-r0	postmarketos-artwork	-dirty	CC-BY-SA-4.0
+postmarketos-base	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-apk	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-doas	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-grub	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-mesa	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-nftables	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-nftables-openrc	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-openrc	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-ssh	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-sudo	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-base-ui	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-audio	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-audio-backend-pulseaudio	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-bluez-openrc	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-elogind	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-gnome	11-r0	postmarketos-base-ui-gnome	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-gnome-mobile	1-r2	postmarketos-base-ui-gnome-mobile	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-gnome-openrc	11-r0	postmarketos-base-ui-gnome	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-modemmanager	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-modemmanager-openrc	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-networkmanager	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-networkmanager-usb-tethering	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-openrc	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-openrc-settingsd	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-qt-tweaks	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-qt-wayland	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-wifi-wpa_supplicant	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-base-ui-wifi-wpa_supplicant-openrc	51-r0	postmarketos-base-ui	-dirty	GPL-3.0-or-later
+postmarketos-baselayout	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-bootsplash	2-r0	postmarketos-bootsplash	-dirty	CC-BY-SA-3.0
+postmarketos-bootsplash-openrc	2-r0	postmarketos-bootsplash	-dirty	CC-BY-SA-3.0
+postmarketos-config-nftables	1-r2	postmarketos-config-nftables	-dirty	MIT
+postmarketos-config-nftables-networkmanager	1-r2	postmarketos-config-nftables	-dirty	MIT
+postmarketos-initramfs	3.11.0-r1	postmarketos-initramfs	-dirty	GPL-2.0-or-later
+postmarketos-keys	1-r1	postmarketos-keys	-dirty	MIT
+postmarketos-mkinitfs	2.11.0-r0	postmarketos-mkinitfs	-dirty	GPL-2.0-or-later
+postmarketos-plymouth-themes	1.2.3-r0	postmarketos-plymouth-themes	-dirty	GPL-3.0-or-later
+postmarketos-release	62-r0	postmarketos-base	-dirty	GPL-3.0-or-later
+postmarketos-ui-phosh	29.1-r0	postmarketos-ui-phosh	-dirty	GPL-3.0-or-later
+postmarketos-ui-phosh-default-osk	29.1-r0	postmarketos-ui-phosh	-dirty	GPL-3.0-or-later
+postmarketos-ui-phosh-openrc	29.1-r0	postmarketos-ui-phosh	-dirty	GPL-3.0-or-later
+postmarketos-zram	3-r0	postmarketos-zram	-dirty	GPL-3.0-or-later
+postmarketos-zram-openrc	3-r0	postmarketos-zram	-dirty	GPL-3.0-or-later
+power-profiles-daemon	0.30-r1	power-profiles-daemon	4b720f1505330430319b02d59f9a63c6871c939f	GPL-3.0-or-later
+presage	0.9.1-r3	presage	33283848034c9885d984c8e8697c645c57324938	GPL-3.0-or-later
+protobuf	31.1-r1	protobuf	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-3-Clause
+protobuf-c	1.5.2-r2	protobuf-c	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-2-Clause
+protoc	31.1-r1	protobuf	376203ab3c643835e4a1e5e0de31076e8a429b37	BSD-3-Clause
+pulseaudio	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+pulseaudio-alsa	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+pulseaudio-bluez	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+pulseaudio-openrc	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+pulseaudio-utils	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+pulseaudio-wireplumber	17.0-r7	pulseaudio	e4821ce2dcff6f6918f0c32b3f5d9573887c4c6b	LGPL-2.1-or-later
+py3-attrs	26.1.0-r0	py3-attrs	d86e2f56cbf97fb02b159fda1178fb1342313277	MIT
+py3-attrs-pyc	26.1.0-r0	py3-attrs	d86e2f56cbf97fb02b159fda1178fb1342313277	MIT
+py3-certifi	2026.10.23-r0	py3-certifi	9a3e2340103851d560cc802d903f42cd57bb69b1	MPL-2.0
+py3-certifi-pyc	2026.10.23-r0	py3-certifi	9a3e2340103851d560cc802d903f42cd57bb69b1	MPL-2.0
+py3-charset-normalizer	3.4.9-r0	py3-charset-normalizer	5d62013473afa06b76ab6058f017d49cc7ab80fb	MIT
+py3-charset-normalizer-pyc	3.4.9-r0	py3-charset-normalizer	5d62013473afa06b76ab6058f017d49cc7ab80fb	MIT
+py3-configobj	5.0.9-r2	py3-configobj	bc5714fb001de7628d0c7fbdd00d8a0c6bb137aa	BSD-3-Clause
+py3-configobj-pyc	5.0.9-r2	py3-configobj	bc5714fb001de7628d0c7fbdd00d8a0c6bb137aa	BSD-3-Clause
+py3-dbus	1.4.0-r1	py3-dbus	8cf4104b8b283cd19d0b5dafaa5f191051acef6b	MIT
+py3-dbus-pyc	1.4.0-r1	py3-dbus	8cf4104b8b283cd19d0b5dafaa5f191051acef6b	MIT
+py3-docopt	0.6.2-r12	py3-docopt	484594cee07f8d5b532e28d06ceb21da190956f1	MIT
+py3-docopt-pyc	0.6.2-r12	py3-docopt	484594cee07f8d5b532e28d06ceb21da190956f1	MIT
+py3-gobject3	3.56.3-r0	py3-gobject3	31a5a951b8d81e3d088a2c18c47e3b7559afae06	LGPL-2.1-or-later
+py3-gobject3-atspi	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+py3-gobject3-atspi-pyc	2.60.5-r0	at-spi2-core	127aabdda292243f9eddbf9d4690d52a167de5c3	LGPL-2.1-or-later
+py3-gobject3-pyc	3.56.3-r0	py3-gobject3	31a5a951b8d81e3d088a2c18c47e3b7559afae06	LGPL-2.1-or-later
+py3-idna	3.16-r0	py3-idna	508782f6538e86d847b62250afc634b5e6100c76	BSD-3-Clause
+py3-idna-pyc	3.16-r0	py3-idna	508782f6538e86d847b62250afc634b5e6100c76	BSD-3-Clause
+py3-jinja2	3.1.6-r1	py3-jinja2	9e115849054f0900346adbc0e7f97cd4fd71b48b	BSD-3-Clause
+py3-jinja2-pyc	3.1.6-r1	py3-jinja2	9e115849054f0900346adbc0e7f97cd4fd71b48b	BSD-3-Clause
+py3-jsonpatch	1.33-r5	py3-jsonpatch	20b0fb72a06d8a59471b9828198e848428f5e554	BSD-3-Clause
+py3-jsonpatch-pyc	1.33-r5	py3-jsonpatch	20b0fb72a06d8a59471b9828198e848428f5e554	BSD-3-Clause
+py3-jsonpointer	3.1.1-r0	py3-jsonpointer	4c7128a6cea47a38ef7a81a67903264fc0480337	BSD-3-Clause
+py3-jsonpointer-pyc	3.1.1-r0	py3-jsonpointer	4c7128a6cea47a38ef7a81a67903264fc0480337	BSD-3-Clause
+py3-jsonschema	4.26.0-r0	py3-jsonschema	412cf41ac6bc81f0aa80f4a308a33115c1470369	MIT
+py3-jsonschema-pyc	4.26.0-r0	py3-jsonschema	412cf41ac6bc81f0aa80f4a308a33115c1470369	MIT
+py3-jsonschema-specifications	2025.9.1-r2	py3-jsonschema-specifications	e2fd036d3f3358e649160e66155172f39ac6ed18	MIT
+py3-jsonschema-specifications-pyc	2025.9.1-r2	py3-jsonschema-specifications	e2fd036d3f3358e649160e66155172f39ac6ed18	MIT
+py3-keyutils	0.6-r7	py3-keyutils	8a37af1418aeaad87d26ba29e148491bd1e5b67c	Apache-2.0
+py3-keyutils-pyc	0.6-r7	py3-keyutils	8a37af1418aeaad87d26ba29e148491bd1e5b67c	Apache-2.0
+py3-markupsafe	3.0.3-r1	py3-markupsafe	cfb15440c0cca7f24de19e95ee8fbd07fb03e082	BSD-3-Clause
+py3-markupsafe-pyc	3.0.3-r1	py3-markupsafe	cfb15440c0cca7f24de19e95ee8fbd07fb03e082	BSD-3-Clause
+py3-referencing	0.37.0-r1	py3-referencing	8829aeed0b9b868ff664eff73243518eaeac6b47	MIT
+py3-referencing-pyc	0.37.0-r1	py3-referencing	8829aeed0b9b868ff664eff73243518eaeac6b47	MIT
+py3-requests	2.33.1-r0	py3-requests	4a7bc6a41ceb1bc40d0f938d931fe9f4532ab82d	Apache-2.0
+py3-requests-pyc	2.33.1-r0	py3-requests	4a7bc6a41ceb1bc40d0f938d931fe9f4532ab82d	Apache-2.0
+py3-rpds-py	0.30.0-r2	py3-rpds-py	ebd20f0bfa76f5280a5b39180c37c96c530ce96a	MIT
+py3-rpds-py-pyc	0.30.0-r2	py3-rpds-py	ebd20f0bfa76f5280a5b39180c37c96c530ce96a	MIT
+py3-ruamel.yaml	0.19.1-r0	py3-ruamel.yaml	e7ed3fe1d9bb801f1dc21609d0924f0190179a21	MIT
+py3-ruamel.yaml-pyc	0.19.1-r0	py3-ruamel.yaml	e7ed3fe1d9bb801f1dc21609d0924f0190179a21	MIT
+py3-ruamel.yaml.clib	0.2.15-r3	py3-ruamel.yaml.clib	5881674e8bd165e1014a050579e3b629a5a7bfad	MIT
+py3-typing-extensions	4.15.0-r1	py3-typing-extensions	50ab86e10f775742f904e4211f8521631004d34c	Python-2.0
+py3-typing-extensions-pyc	4.15.0-r1	py3-typing-extensions	50ab86e10f775742f904e4211f8521631004d34c	Python-2.0
+py3-urllib3	2.7.0-r0	py3-urllib3	973076ab0c5d3b66302d9cbc25815e1c27b63391	MIT
+py3-urllib3-pyc	2.7.0-r0	py3-urllib3	973076ab0c5d3b66302d9cbc25815e1c27b63391	MIT
+py3-yaml	6.0.3-r2	py3-yaml	d56248db1804f4c5744f4b2349f3ecc25588bb2b	MIT
+py3-yaml-pyc	6.0.3-r2	py3-yaml	d56248db1804f4c5744f4b2349f3ecc25588bb2b	MIT
+pyc	3.14.10-r1	python3	831cfeb7301d5010c027905e42958312698f4e4a	PSF-2.0
+python3	3.14.10-r1	python3	831cfeb7301d5010c027905e42958312698f4e4a	PSF-2.0
+python3-pyc	3.14.10-r1	python3	831cfeb7301d5010c027905e42958312698f4e4a	PSF-2.0
+python3-pycache-pyc0	3.14.10-r1	python3	831cfeb7301d5010c027905e42958312698f4e4a	PSF-2.0
+qrcodegen	1.8.0-r0	qrcodegen	7f493ba30401f8bdd7a12ce6460e647ccb29661e	MIT
+readline	8.3.3-r1	readline	a854c03acdac188901fb012f7acbee70a36e8041	GPL-3.0-or-later
+rest1	0.9.1-r1	rest1	6bd45b53fb316dc01bda59f5feaf1e127eb64f22	LGPL-2.0-or-later
+roc-toolkit-libs	0.4.0-r1	roc-toolkit	9ea23937b2c6f2b3bbd070f7476d5f8f570b555c	MPL-2.0
+runuser	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+samba-client-libs	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+samba-libs	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+samba-util-libs	4.23.8-r0	samba	8f645912edf77c28a81fe7924b59de26761c194e	GPL-3.0-or-later AND LGPL-3.0-or-later
+sbc	2.1-r0	sbc	2158fff9179327ffdbaaf7789c377cf57964da17	GPL-2.0-or-later AND LGPL-2.1-or-later
+scanelf	1.3.9-r1	pax-utils	c61801eeacb3ffcd9c2025b09e402153bb93fb39	GPL-2.0-only
+seatd	0.9.3-r0	seatd	493aed10300970781e9df821a418b91cf3aa6af2	MIT
+seatd-openrc	0.9.3-r0	seatd	493aed10300970781e9df821a418b91cf3aa6af2	MIT
+setarch	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+setpriv	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+setxkbmap	1.3.5-r0	setxkbmap	c2d6a70bd12824ac6f7582f9e81ef918c6063454	MIT
+sfdisk	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-1.0-or-later
+shadow	4.18.0-r1	shadow	20f03e3dc807abbe036c173c1a5cb1f525a1f0d1	BSD-3-Clause
+shared-mime-info	2.4-r7	shared-mime-info	74df86bcbb3a36bdffe8a4738fadbd44ede405bc	GPL-2.0-or-later
+skalibs-libs	2.15.0.0-r0	skalibs	f148233038fa9b35932a7996df29f110b32c2160	ISC
+slang	2.3.3-r3	slang	37d693b12294d28fe8c91a6d6ea4ed81fa0c4d20	GPL-2.0-or-later
+sleep-inhibitor	1.25-r2	sleep-inhibitor	90212f4f477e10b10b9c16d6c53d1c5f6c273b74	GPL-3.0-or-later
+sleep-inhibitor-openrc	1.25-r2	sleep-inhibitor	90212f4f477e10b10b9c16d6c53d1c5f6c273b74	GPL-3.0-or-later
+sleep-inhibitor-pyc	1.25-r2	sleep-inhibitor	90212f4f477e10b10b9c16d6c53d1c5f6c273b74	GPL-3.0-or-later
+sound-theme-freedesktop	0.8-r2	sound-theme-freedesktop	619f65318054bd14324e296f2b003c8e1482c3ca	CC-BY-SA-3.0 AND GPL-2.0-or-later AND GPL-2.0-only AND CC-BY-3.0
+sound-theme-phosh	0.55.0-r0	phosh-wallpapers	616357d695f4f07fefb5ac4c69d0d58c3541e1f4	GPL-3.0-or-later AND CC-BY-SA-4.0 AND CC0-1.0
+soundtouch	2.4.1-r0	soundtouch	eca3b12c11bd315f8fc843808cf1e89dea4043fc	LGPL-2.0-or-later
+soxr	0.1.3-r7	soxr	a7ec97e438d943083c5e7ffb0c7a20b546c60d31	LGPL-2.1-or-later
+spandsp	0.0.6-r5	spandsp	9024026ee6838388f8b87e52a17495786ed85d4e	LGPL-2.1-only
+speexdsp	1.2.1-r2	speexdsp	33283848034c9885d984c8e8697c645c57324938	BSD-3-Clause
+spirv-tools	1.4.341.0-r0	spirv-tools	5115d4d26db3422769415dddaf4c909f8aca0017	Apache-2.0
+sqlite-libs	3.53.4-r0	sqlite	a9c3ba8b9129ec0f294d0a9bf538c2f1632bb016	blessing
+ssl_client	1.37.0-r31	busybox	c3ef5d10e6ef6528852c51f0564963e2f8c1be19	GPL-2.0-only
+stevia	0.55.0-r0	stevia	8acabbbdb49a7ac038f20d98b28aaaa75f82a160	GPL-3.0-or-later
+sudo	1.9.17_p2-r2	sudo	231b3edb78d995cabc640c7e118d8a74fd50e6b4	custom ISC
+talloc	2.4.4-r1	talloc	d8fab7ed2b8cafee310462a078ec8a9b7943fec1	LGPL-3.0-or-later
+tdb-libs	1.4.15-r1	tdb	138cce73b696a2c7b1af3f4d4c2e7da8b643839d	LGPL-3.0-or-later
+tevent	0.17.1-r1	tevent	d903585f7ff1c950e7848ddbb6c4ee717c3b8e95	LGPL-3.0-or-later
+tiff	4.7.2-r0	tiff	bbcfbafeadf5dac4744d065ac69338c1b58fc0d1	libtiff
+tinyxml	2.6.2-r6	tinyxml	b01c471c954a054e703baee3fa242df2cea570c1	Zlib
+tslib	1.24-r0	tslib	a83fa360ad5763f7af99da39c0e948c824f0926b	LGPL-2.0-or-later
+tzdata	2026f-r0	tzdata	63faba7f731ad47f4cd60d3ff34ff1aadd49c091	Public-Domain
+udev-init-scripts	35-r1	udev-init-scripts	7501172a312403cb494042f8aa8f9faf7b354790	GPL-2.0-only
+udev-init-scripts-openrc	35-r1	udev-init-scripts	7501172a312403cb494042f8aa8f9faf7b354790	GPL-2.0-only
+udiskie	2.6.1-r1	udiskie	403c5dce245c255dcf2ebf8ed2582e8fc08e5ed4	MIT
+udiskie-pyc	2.6.1-r1	udiskie	403c5dce245c255dcf2ebf8ed2582e8fc08e5ed4	MIT
+udisks2	2.11.0-r2	udisks2	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	GPL-2.0-or-later
+udisks2-libs	2.11.0-r2	udisks2	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	GPL-2.0-or-later
+udisks2-openrc	2.11.0-r2	udisks2	5e1b822309fb17cc2ebd46d6fbacb1763acbcdd1	GPL-2.0-or-later
+uim	1.9.6-r4	uim	664fc4b93d21c0d2a7ea5638b4009d6ddaa0568d	BSD-3-Clause
+uim-anthy	1.9.6-r4	uim	664fc4b93d21c0d2a7ea5638b4009d6ddaa0568d	BSD-3-Clause
+uim-gtk3	1.9.6-r4	uim	664fc4b93d21c0d2a7ea5638b4009d6ddaa0568d	BSD-3-Clause
+umount	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+unl0kr	3.5.1-r1	unl0kr	-dirty	GPL-3.0-or-later
+unudhcpd	0.3.0-r0	unudhcpd	f7200769f13918f41b54223b7033f493249ec2a8	GPL-3.0-or-later
+unudhcpd-openrc	0.3.0-r0	unudhcpd	f7200769f13918f41b54223b7033f493249ec2a8	GPL-3.0-or-later
+upower	1.91.0-r2	upower	141ab05cb68ff13a2e922efc2434e87b72dad6e8	GPL-2.0-or-later
+upower-udev	1.91.0-r2	upower	141ab05cb68ff13a2e922efc2434e87b72dad6e8	GPL-2.0-or-later
+userspace-rcu	0.15.3-r0	userspace-rcu	e7494294eddc019bc834a79e1eedeca35de22733	LGPL-2.1-or-later
+util-linux	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+util-linux-login	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later AND BSD-1-Clause
+util-linux-misc	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+util-linux-openrc	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-only AND LGPL-2.1-or-later AND BSD-1-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND MIT AND Public-Domain
+utmps-libs	0.1.3.3-r0	utmps	900a4ecef77ae677eab8243b99f2c40cbf8ea35b	ISC
+uuidgen	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-1.0-only
+vo-aacenc	0.1.3-r3	vo-aacenc	ec85fe7c1a78cb5e8e5d7d48913efe7947a0d2a8	Apache-2.0
+vo-amrwbenc	0.1.3-r3	vo-amrwbenc	5c59dec30aa538ae88d9dcfd533c3ed64b81421b	Apache-2.0
+volume_key	0.3.12-r9	volume_key	f72770bfd59c3268e5a5e664b0d0418568f30b9b	GPL-2.0-or-later
+vulkan-loader	1.4.347-r0	vulkan-loader	07bac49555d7efd5cf8133ae2c4f5cd4c3bb39b4	Apache-2.0
+wayland-libs-client	1.25.0-r0	wayland	5960a969742897aba03257e84f0aa40f3c1e84d6	MIT
+wayland-libs-cursor	1.25.0-r0	wayland	5960a969742897aba03257e84f0aa40f3c1e84d6	MIT
+wayland-libs-egl	1.25.0-r0	wayland	5960a969742897aba03257e84f0aa40f3c1e84d6	MIT
+wayland-libs-server	1.25.0-r0	wayland	5960a969742897aba03257e84f0aa40f3c1e84d6	MIT
+webkit2gtk-6.0	2.48.1-r4	webkit2gtk-6.0	e57b89272298556d050031a6e4ba575937f86c8e	LGPL-2.0-or-later AND BSD-2-Clause
+webrtc-audio-processing-1	1.3-r3	webrtc-audio-processing-1	f53ab3f87bc0fb136afdb930007675060e662329	custom
+webrtc-audio-processing-2	2.1-r1	webrtc-audio-processing-2	f6f70577078e2d6287260fbc63749b016dee0df5	custom
+wipefs	2.42.3-r1	util-linux	d98c55af59055e6ca60fbe36e171546918709965	GPL-2.0-or-later
+wireless-regdb	2025.10.07-r0	wireless-regdb	b622fe09a3d285b16d15fac251b30464be85f7aa	ISC
+wireplumber	0.5.15-r0	wireplumber	adcd5342b81044f65eb3a5eaceee3d084ebfb182	LGPL-2.1-or-later
+wireplumber-libs	0.5.15-r0	wireplumber	adcd5342b81044f65eb3a5eaceee3d084ebfb182	LGPL-2.1-or-later
+wireplumber-openrc	0.5.15-r0	wireplumber	adcd5342b81044f65eb3a5eaceee3d084ebfb182	LGPL-2.1-or-later
+wlr-randr	0.5.0-r1	wlr-randr	28186404017058f4d4ee234e3b7683d3dac1b0bb	MIT
+wpa_supplicant	2.11-r4	wpa_supplicant	a5e7e28d156656420281cc42d2671d795239e6a7	BSD-3-Clause
+wpa_supplicant-openrc	2.11-r4	wpa_supplicant	a5e7e28d156656420281cc42d2671d795239e6a7	BSD-3-Clause
+x265-libs	4.1-r0	x265	d3b7a03815c4db9a1561bcad406ade4209c08145	GPL-2.0-or-later
+xcb-util-renderutil	0.3.10-r0	xcb-util-renderutil	72959c97a7f1a16c7cac34bca08b11266602e244	MIT
+xcb-util-wm	0.4.2-r0	xcb-util-wm	6867e384dbfbd0b8efadbca989e9778190e89496	MIT
+xdg-dbus-proxy	0.1.9-r0	xdg-dbus-proxy	2c461d47ec384165edca1c1e48add34e35dcf9e6	LGPL-2.1-or-later
+xdg-desktop-portal	1.21.2-r0	xdg-desktop-portal	255718024a4147fa290200f1a9553227775c0b81	LGPL-2.1-or-later
+xdg-desktop-portal-gtk	1.15.3-r1	xdg-desktop-portal-gtk	3b0c4c029784c24fa1e6406e6f1a23651e2ed8a9	LGPL-2.1-or-later
+xdg-desktop-portal-openrc	1.21.2-r0	xdg-desktop-portal	255718024a4147fa290200f1a9553227775c0b81	LGPL-2.1-or-later
+xdg-desktop-portal-phosh	0.55.0-r0	xdg-desktop-portal-phosh	a15c6e2325a13e6758ab731d043cf374ef80c474	GPL-3.0-or-later
+xdg-desktop-portal-wlr	0.8.2-r0	xdg-desktop-portal-wlr	1e42418391da48efec37d28a7a36bcad1ae9348d	MIT
+xdg-desktop-portal-wlr-openrc	0.8.2-r0	xdg-desktop-portal-wlr	1e42418391da48efec37d28a7a36bcad1ae9348d	MIT
+xdg-document-portal	1.21.2-r0	xdg-desktop-portal	255718024a4147fa290200f1a9553227775c0b81	LGPL-2.1-or-later
+xdg-document-portal-openrc	1.21.2-r0	xdg-desktop-portal	255718024a4147fa290200f1a9553227775c0b81	LGPL-2.1-or-later
+xdg-user-dirs	0.20-r0	xdg-user-dirs	dd2093daa7a2b37eb37be77b4621b0d3459bc70e	MIT AND GPL-2.0-only
+xdg-user-dirs-gtk	0.16-r0	xdg-user-dirs-gtk	2941f70a86453446dd4b7c66c09f9aea5aa7c402	GPL-2.0-or-later
+xdg-utils	1.2.1-r1	xdg-utils	6867e384dbfbd0b8efadbca989e9778190e89496	MIT
+xfsprogs	7.0.1-r0	xfsprogs	ea4d2b7001df68844234b3c9480b71906c1fa5b5	LGPL-2.1-or-later
+xfsprogs-extra	7.0.1-r0	xfsprogs	ea4d2b7001df68844234b3c9480b71906c1fa5b5	LGPL-2.1-or-later
+xkbcomp	1.5.0-r0	xkbcomp	aa8ee026b4c1ab3a33ac7feeba3bbdd2ee151ea6	MIT
+xkeyboard-config	99992.47-r0	xkeyboard-config	-dirty	MIT
+xorg-server-common	21.1.26-r0	xorg-server	48c476f8371638f3be019d379dabf44d67528204	MIT
+xprop	1.2.8-r0	xprop	6867e384dbfbd0b8efadbca989e9778190e89496	MIT
+xset	1.2.5-r1	xset	e1b77cbba8275696e70cc7c1c4c8d25961f84393	MIT
+xwayland	24.1.15-r0	xwayland	4e56150ba2527acf91c0239d10225e4cce683d28	MIT
+xz	5.8.4-r0	xz	0c088d609f9fe69eedd6b4c7f4b99cdad847c20a	GPL-2.0-or-later AND 0BSD AND Public-Domain AND LGPL-2.1-or-later
+xz-libs	5.8.4-r0	xz	0c088d609f9fe69eedd6b4c7f4b99cdad847c20a	GPL-2.0-or-later AND 0BSD AND Public-Domain AND LGPL-2.1-or-later
+yaml	0.2.5-r2	yaml	8bac74716d06c84627ab02d101fd9d2bafd0a34c	MIT
+zlib	1.4-r0	zlib	bdf501c870a92a05c097857401f69c48c4810384	Zlib
+zstd-libs	1.5.7-r2	zstd	3c6e2ee2b16f403d53eab39c4426eb61f003c322	BSD-3-Clause OR GPL-2.0-or-later
